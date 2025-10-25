@@ -23,5 +23,5 @@ npm start
 Run the app using the provided *docker-compose.yml* file
 
 ```shell
-docker compose up -d
+docker compose up
 ```
